@@ -8,7 +8,7 @@ Our Project Website : https://showtime.f4.htw-berlin.de/ss21/bachelor/b1-strollr
 
 ________________________________________________________________
 
-Programmed with Flutter and dart.
+> Programmed with Flutter and dart.
 
 - have a look at the documentations i have created after Softwaretesting ISTQB and Softwarequality ISO 9126
 
