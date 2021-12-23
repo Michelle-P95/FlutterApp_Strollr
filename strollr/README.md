@@ -1,3 +1,1 @@
-# strollr
-
-A Flutter project.
+# Strollr 
